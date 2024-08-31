@@ -30,15 +30,11 @@ To get started with FlutterForecast, follow these steps:
 
 3. **Install dependencies 📦**
 
-'''bash
-  flutter pub get
-  '''
+  `flutter pub get`
   
 4. **Run the app 🏃‍♂️**
 
-'''bash
-  flutter run
-  '''
+  `flutter run`
 
 ## License 📜
 
