@@ -25,17 +25,17 @@ To get started with FlutterForecast, follow these steps:
 2. **Navigate to the project directory** 📂
 
 ```bash
- git clone cd FlutterForecast
+   cd FlutterForecast
 ```
 
 3. **Install dependencies 📦**
 ```bash
-  flutter pub get
+   flutter pub get
 ```
   
 4. **Run the app 🏃‍♂️**
 ```bash
-  flutter run
+   flutter run
 ```
 
 ## License 📜
