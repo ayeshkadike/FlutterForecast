@@ -19,8 +19,9 @@ To get started with FlutterForecast, follow these steps:
 
 1. **Clone the repository** 📥
 
-   ```bash
+```bash
    git clone https://github.com/your-username/FlutterForecast.git
+```
 
 2. **Navigate to the project directory** 📂
 
