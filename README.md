@@ -1,6 +1,6 @@
 # FlutterForecast 🌦️📱
 
-Welcome to **FlutterForecast**, your go-to weather application built with Flutter! This app provides real-time weather updates for the current day, all in a sleek, user-friendly interface.
+A Flutter app that provides real-time weather updates for the current day, all in a sleek, user-friendly interface.
 
 ## Features ✨
 
