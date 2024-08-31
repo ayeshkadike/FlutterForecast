@@ -11,7 +11,8 @@ Welcome to **FlutterForecast**, your go-to weather application built with Flutte
 
 ## Screenshots 📸
 
-![Home/Forecast Screen]![flutterforecast](https://github.com/user-attachments/assets/9d75729a-5acf-4bb6-b5b2-4bbd341cc5fc)
+*Forecast Screen*
+![flutterforecast](https://github.com/user-attachments/assets/9d75729a-5acf-4bb6-b5b2-4bbd341cc5fc)
 
 ## Getting Started 🚀
 
